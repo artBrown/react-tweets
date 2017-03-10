@@ -1,8 +1,8 @@
 module.exports = {
   twitter: {
-    consumer_key: 'MY_CONSUMER_KEY',
-    consumer_secret: 'MY_CONSUMER_SECRET',
-    access_token_key: 'MY_ACCESS_TOKEN_KEY',
-    access_token_secret: 'MY_ACCESS_TOKEN_SECRET'
+    consumer_key: '54lXBbFihVzJpRrD2utlSLeJs',
+    consumer_secret: 'xSXY7k3k1Ess7Ma4bpZxVXc8P2Sr443sx8Stncsw0E42xlpU5w',
+    access_token_key: ' 760453306112024576-grrqLJgJHbPsTUEBK128M1mmCjlOdOL',
+    access_token_secret: 'qUtfrVzvXCW1jYQhhx0V7hwaLYOaCPxXtEGUhdafSnJJO'
   }
 }
